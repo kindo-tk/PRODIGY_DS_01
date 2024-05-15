@@ -34,7 +34,9 @@ Thank you for reviewing my submission!
 
 ## 📬 Contact
 
-Questions or suggestions? Reach out to me:
+Questions or suggestions?
+
+Reach out to me:
 <br>
 <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
 <br>
