@@ -34,10 +34,7 @@ Thank you for reviewing my submission!
 
 ## 📬 Contact
 
-Questions or suggestions?
+For any inquiries or feedback regarding this project, please contact:
 
-Reach out to me:
-<br>
-<a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-<br>
-Email: tufan.kundu11@gmail.com
+- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
+- Email: tufan.kundu11@gmail.com
